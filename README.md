@@ -3,6 +3,9 @@
 ### <h3 align="center">A Computer Science and Robotics Enthusiast</h3>
 
 [![](https://visitcount.itsvg.in/api?id=ar1701&icon=5&color=0)](https://visitcount.itsvg.in)
+- Awesome Work Environment
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<br><br>
 # 💫 About Me:
 👨‍💻 I’m currently working on: Full Stack Development, building web applications, and creating a chatbot for diet planning.<br><br>🤝 I’m looking to collaborate on: Open-source projects, ROS-based robotics projects, and full-stack development work.<br><br>👋 I’m looking for help with: Securing an internship in Full Stack Development or Robotics.<br><br>🌱 I’m currently learning: Robot Operating System (ROS), Data Structures & Algorithms (DSA), and Vue.js optimization techniques.<br><br>❓ Ask me about: The European Rover Challenge 2024, where I represented Team INDIA; Full Stack Development, or Robotics.<br><br>⚡ Fun fact: I love watching movies, playing cricket, and reading books in my free time!<br><br>😄 Pronouns: He/Him<br><br>📫 How to reach me:  ayushrajj30@gmail.com<br>
 
