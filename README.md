@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm AYUSH RAJ</h1>
 
-### A Computer Science Enthusiast
+### <h1 align="center">A Computer Science and Robotics Enthusiast</h1>
 
 [![](https://visitcount.itsvg.in/api?id=ar1701&icon=5&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
