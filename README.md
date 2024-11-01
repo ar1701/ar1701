@@ -1,6 +1,5 @@
-# Hi 👋, I'm AYUSH RAJ
+#                                               Hi 👋, I'm AYUSH RAJ
 
----
 
 ### A Computer Science Enthusiast
 
