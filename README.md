@@ -1,5 +1,4 @@
-#                                               Hi 👋, I'm AYUSH RAJ
-
+# <h1 align="center">Hi 👋, I'm Ishika Ishani</h1>
 
 ### A Computer Science Enthusiast
 
