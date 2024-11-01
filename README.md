@@ -3,10 +3,25 @@
 ### <h3 align="center">A Computer Science and Robotics Enthusiast</h3>
 
 [![](https://visitcount.itsvg.in/api?id=ar1701&icon=5&color=0)](https://visitcount.itsvg.in)
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-<br><br>
-# 💫 About Me:
-👨‍💻 I’m currently working on: Full Stack Development, building web applications, and creating a chatbot for diet planning.<br>🤝 I’m looking to collaborate on: Open-source projects, ROS-based robotics projects, and full-stack development work.<br>👋 I’m looking for help with: Securing an internship in Full Stack Development or Robotics.<br>🌱 I’m currently learning: Robot Operating System (ROS), Data Structures & Algorithms (DSA), and Vue.js optimization techniques.<br>❓ Ask me about: The European Rover Challenge 2024, where I represented Team INDIA; Full Stack Development, or Robotics.<br>⚡ Fun fact: I love watching movies, playing cricket, and reading books in my free time!<br>😄 Pronouns: He/Him<br>📫 How to reach me:  ayushrajj30@gmail.com<br>
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+    </td>
+    <td>
+      <h1>💫 About Me:</h1>
+      <p>👨‍💻 I’m currently working on: Full Stack Development, building web applications, and creating a chatbot for diet planning.</p>
+      <p>🤝 I’m looking to collaborate on: Open-source projects, ROS-based robotics projects, and full-stack development work.</p>
+      <p>👋 I’m looking for help with: Securing an internship in Full Stack Development or Robotics.</p>
+      <p>🌱 I’m currently learning: Robot Operating System (ROS), Data Structures & Algorithms (DSA), and Vue.js optimization techniques.</p>
+      <p>❓ Ask me about: The European Rover Challenge 2024, where I represented Team INDIA; Full Stack Development, or Robotics.</p>
+      <p>⚡ Fun fact: I love watching movies, playing cricket, and reading books in my free time!</p>
+      <p>😄 Pronouns: He/Him</p>
+      <p>📫 How to reach me: ayushrajj30@gmail.com</p>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🌐 Socials:
