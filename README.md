@@ -1,3 +1,5 @@
+
+[![](https://visitcount.itsvg.in/api?id=ar1701&icon=5&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 👨‍💻 I’m currently working on: Full Stack Development, building web applications, and creating a chatbot for diet planning.<br><br>🤝 I’m looking to collaborate on: Open-source projects, ROS-based robotics projects, and full-stack development work.<br><br>👋 I’m looking for help with: Securing an internship in Full Stack Development or Robotics.<br><br>🌱 I’m currently learning: Robot Operating System (ROS), Data Structures & Algorithms (DSA), and Vue.js optimization techniques.<br><br>❓ Ask me about: The European Rover Challenge 2024, where I represented Team INDIA; Full Stack Development, or Robotics.<br><br>⚡ Fun fact: I love watching movies, playing cricket, and reading books in my free time!<br><br>😄 Pronouns: He/Him<br><br>📫 How to reach me:  ayushrajj30@gmail.com<br>
 
@@ -22,6 +24,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ar1701&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ar1701&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
